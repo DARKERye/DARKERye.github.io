@@ -9,6 +9,8 @@ categories: hexo
 * 依次执行git add .、git commit -m “…”、git push origin hexo指令将改动推送到GitHub（此时当前分支应为hexo）；
 * 然后才执行hexo generate -d发布网站到master分支上。
 
+<!-- more -->
+
 ##### 本地资料丢失
 
 **当重装电脑之后，或者想在其他电脑上修改博客，可以使用下列步骤**
