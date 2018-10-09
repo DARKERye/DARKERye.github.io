@@ -1,5 +1,5 @@
 ---
-title: 网站
+title: hexo
 date: 2018-01-18 15:19:07
 tags: hexo
 categories: hexo
